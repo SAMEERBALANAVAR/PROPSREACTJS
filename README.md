@@ -1,2 +1,2 @@
-# PROPSREACTJS
+# REACTJSPROPS
 Created with CodeSandbox
